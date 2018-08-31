@@ -1,9 +1,5 @@
 # GitTests
 
-start feature 1
+start again
 
-another feature
-
-conflict solved
-
-ppp
+this was missing
